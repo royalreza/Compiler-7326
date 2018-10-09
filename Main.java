@@ -111,3 +111,14 @@ public class Main {
     }
 }
 
+
+//Output:
+// File readed
+// A symbol table:
+
+// keyword: int, float, if, else,
+// Identifiers: c, e, a, b, d,
+// Math Operators: =, -,
+// Logical Operators: >,
+// Values: 5, 6,
+// Others: ; ( { }
